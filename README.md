@@ -1,7 +1,3 @@
-Here's a detailed and polished GitHub README for your project:
-
----
-
 # Quantization: Exploring Trade-offs Between Precision and Performance
 
 Quantization is a model compression technique that reduces the precision of weights and activations, enabling significant memory and computational efficiency. This repository focuses on evaluating and comparing two key quantization strategies:
