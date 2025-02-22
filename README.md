@@ -57,26 +57,9 @@ These experiments are essential for optimizing deep learning models for deployme
 ### Prerequisites
 - Python 3.8 or higher
 - PyTorch 1.10+
-- CUDA 11.0+ (optional but recommended)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/quantization-exploration.git
-   cd quantization-exploration
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Download the CIFAR-100 dataset automatically during runtime.
 
 ### Usage
-- To run the experiments, execute:
-  ```bash
-  python main.py
-  ```
+- Run the notbook in the repository.
 
 ## Learnings
 
@@ -104,7 +87,3 @@ Both had comparable memory footprints, with `bf16` exhibiting greater numerical 
 ## References
 - [TorchAo Quantization Library](https://pytorch.org/docs/stable/quantization.html)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
-
----
-
-Would you like to include any specific visualizations or additional details?
